@@ -3,12 +3,14 @@
     border: 1px solid white;
     cursor: pointer;
     transition: 0.4s;
+    border-radius: 10px;
   }
   .food-card:hover {
     border-color: #ff0044;
   }
   .imageCard {
     width: 100%;
+    border-radius: 10px 10px 0 0;
   }
   .food-information {
     padding: 14px 20px;
